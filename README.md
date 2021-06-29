@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Haritha-534
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...8
-
-<!---
-Haritha-534/Haritha-534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Create a account in github
+Create a new respiratory file
+Create a new folder in a respiratory 
+Share the code to the respected account 
